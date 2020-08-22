@@ -1,0 +1,24 @@
+<registro1>
+<nombre>Angel</nombre>
+<carrera>Ingenieria Industrial</carrera>
+<telefono>48325677</telefono>
+<genero>Masculino</genero>
+</registro1>
+<registro2> 
+<nombre>Eduardo</nombre>
+<carrera>Ingenieria en Sistemas</carrera>
+<telefono>45544436</telefono>
+<genero>Masculino</genero>
+</registro2>
+<registro3> 
+<nombre>Karla</nombre>
+<carrera>Ingenieria Ambiental</carrera>
+<telefono>48322300</telefono>
+<genero>Femenino</genero>
+</registro3>
+<registro4> 
+<nombre>Leslie</nombre>
+<carrera>Ingenieria Quimica</carrera>
+<telefono>42121233</telefono>
+<genero>Femenino</genero>
+</registro4>

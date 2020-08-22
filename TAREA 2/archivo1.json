@@ -1,0 +1,26 @@
+[
+    {
+        "Nombre":"Luis",
+        "Edad":"21",
+        "Genero":"Masculino",
+        "Nacionalidad":"Guatemalteco"
+    },
+    {
+        "Nombre":"Carlos",
+        "Edad":"31",
+        "Genero":"Masculino",
+        "Nacionalidad":"Mexicano"
+    },
+    {
+        "Nombre":"Miguel",
+        "Edad":"34",
+        "Genero":"Masculino",
+        "Nacionalidad":"Aleman"
+    },{
+        "Nombre":"Carla",
+        "Edad":"21",
+        "Genero":"Femenina",
+        "Nacionalidad":"Guatemalteco"
+
+}
+]
